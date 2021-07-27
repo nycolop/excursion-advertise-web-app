@@ -1,0 +1,40 @@
+body {
+    background-color: #000;
+    color: white;
+    text-align: center;
+}
+
+body a:nth-child(1) {
+    display: block;
+}
+
+h2, figcaption, h1 {
+    font-family: Verdana, sans-serif, Arial;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+figcaption, footer p {
+    color: gray;
+}
+
+figcaption {
+    font-size: 21px;
+}
+
+footer p {
+    text-align: right;
+}
