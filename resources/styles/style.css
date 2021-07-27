@@ -4,12 +4,13 @@ body {
     text-align: center;
 }
 
-body a:nth-child(1) {
-    display: block;
+* {
+    font-family: Verdana, sans-serif, Arial;
 }
 
-h2, figcaption, h1 {
-    font-family: Verdana, sans-serif, Arial;
+body a:nth-child(1) {
+    display: block;
+    padding-bottom: 25px;
 }
 
 h1 {
@@ -33,8 +34,14 @@ figcaption, footer p {
 
 figcaption {
     font-size: 21px;
+    padding-bottom: 20px;
 }
 
 footer p {
     text-align: right;
+    opacity: 0.9;
+}
+
+aside {
+    margin: 20px 0;
 }
