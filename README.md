@@ -3,7 +3,7 @@
 [Here you can see a demo of this project]()
 
 ## **Overview**
-![screenshot]()
+![screenshot](excursion.webp)
 
 ## **Features**
 This web page advertises a mobile app which helps users record and share their experiences.
