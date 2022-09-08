@@ -1,6 +1,6 @@
 # **Download Excursion App**
 ## *Discover hidden places in the world around you*
-## [Here you can see a demo of this project](https://necogamy.github.io/excursion-advertise-web-app/)
+## [Here you can see a demo of this project](https://nycolop.github.io/excursion-advertise-web-app/)
 
 ## **Overview**
 ![screenshot](excursion.webp)
